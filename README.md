@@ -1,9 +1,7 @@
-<table><tr><td align="center">
+<div align="center">
 
-<a href="https://dataannotation.vercel.app/petrarobinson118/?id=6e7edb1a3a937086"><img src="readme/card.svg?v=1793724171" alt="" width="1600" /></a>
+<a href="https://dataannotation.vercel.app/petrarobinson118/?id=6e7edb1a3a937086">
+  <img src="https://raw.githubusercontent.com/petrarobinson118/petrarobinson118/main/readme/card-1793893918.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-</td></tr></table>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://dataannotation.vercel.app/petrarobinson118/?id=6e7edb1a3a937086)
+</div>
